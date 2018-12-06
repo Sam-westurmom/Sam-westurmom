@@ -1,0 +1,158 @@
+body {
+  background-color: #ff7429;
+}
+
+/******************************
+**
+**      Dank Meme Homepage css
+**
+******************************/
+#homepage-body {
+  font-family: "Comic Sans MS", cursive, sans-serif;
+  margin: 0;
+}
+
+.dankmeme-header {
+  color: crimson;
+  height: 700px;
+  z-index: 0;
+  position: relative;
+  text-align: center;
+  background: #ffa949 url("../DrPhil-1280x720px-Shareimage.jpg")
+}
+
+.dankmeme-header h1 {
+  margin: 0;
+}
+
+.navbar-list {
+  text-align: center;
+  text-decoration: none;
+}
+
+.navlink a {
+  text-decoration: none;
+  color: blue;
+}
+
+
+.navlink a:hover {
+  color: crimson;
+}
+
+.navlink {
+  display: inline;
+  position: relative;
+  margin:  15px;
+  z-index: 0;
+  font-size: 25px
+}
+
+#sub-to-pewds {
+  font-size: 50px;
+  color: white;
+  z-index: 1;
+  margin-top: 150px
+}
+
+/******************************
+**
+**      New Memes css
+**
+******************************/
+#newmemes-body {
+  font-family: "Comic Sans MS", cursive, sans-serif;
+  margin: 0;
+}
+
+.newmemes-header{
+  color: crimson;
+  height: 700px;
+  z-index: 0;
+  position: relative;
+  text-align: center;
+  background: #ffa949 url("../b2655359-f3c4-436e-b7dc-7ceb3d528dfd-dj92z5rvsaa7uku.jpg") no-repeat;
+  background-size: cover;
+}
+
+.newmemes-header h1{
+  margin: 0;
+}
+
+.navbar-list{
+  text-align: center;
+  text-decoration: none;
+}
+
+.navlink a{
+  text-decoration: none;
+  color: blue;
+}
+
+.navlink a:hover {
+  color: crimson;
+}
+
+.navlink {
+  display: inline;
+  position: relative;
+  margin: 15px;
+  z-index: 0;
+  font-size: 25px;
+}
+
+#oldmeme-1 {
+
+
+}
+
+/******************************
+**
+**      Old Memes css
+**
+******************************/
+
+#oldmeme-body {
+  font-family: "Comic Sans MS", cursive, sans-serif;
+  margin: 0;
+}
+
+.oldmemes-header {
+  color: crimson;
+  height: 700px;
+  z-index: 0;
+  position: relative;
+  text-align: center;
+  background: #ffa949 url("../Chef-Ainsley-Harriot-BBC-Intervie.png") no-repeat;
+  background-size: cover;
+}
+
+.oldmemes-header h1 {
+  margin: 0;
+}
+
+.navbar-list {
+  text-align: center;
+  text-decoration: none;
+}
+
+.navlink a {
+  text-decoration: none;
+  color: blue;
+}
+
+.navlink a:hover {
+  color: crimson;
+}
+
+.navlink {
+  display: inline;
+  position: relative;
+  margin:  15px;
+  z-index: 0;
+  font-size: 25px
+}
+
+.oldmeme-gallery {
+  display: flex;
+}
